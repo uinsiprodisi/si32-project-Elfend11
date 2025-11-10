@@ -1,8 +1,7 @@
 <body>
     <header>
-        <h1>Praktikum CSS Gabungan</h1>
+        <h1>Mahasiswa SI32</h1>
     </header>
-
     <nav>
         <ul>
             <li><a href="halaman1.html">Halaman 1</a></li>
