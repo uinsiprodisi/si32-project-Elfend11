@@ -7,7 +7,7 @@ $password = password_hash("123456", PASSWORD_DEFAULT);
 $nama_lengkap = "Administrator Website";
 
 $query = "
-            INSERT INTO users (username, email, password, nama_lengkap)
+            INSERT INTO user (username, email, password, nama_lengkap)
             VALUES ('$username', '$email', '$password', '$nama_lengkap')
         ";
 
